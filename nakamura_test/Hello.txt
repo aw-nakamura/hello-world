@@ -1,4 +1,4 @@
 Hello!
 BASE FIXUP!!!! commit A
 PLUS! commit B
-FIXUP!
+FIXUP! fixup
